@@ -3,7 +3,7 @@ name: user-service
 replicaCount: 3
 
 image:
-  repository: sxmpath577/user-service-wrong
+  repository: sxmpath577/user-service
   tag: v1
 
 service:
